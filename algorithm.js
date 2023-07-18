@@ -27,6 +27,7 @@ function palindrome(str) {
   }
 }
 
+// algorithm test cases
 palindrome("eye");
 palindrome("_eye")
 palindrome("race car");
